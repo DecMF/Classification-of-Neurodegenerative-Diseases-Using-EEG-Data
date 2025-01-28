@@ -47,7 +47,7 @@ O modelo supervisionado foi comparado com um benchmark baseado em Random Forests
 ##  Resultados
 
 
-### **📌 Comparação com o Benchmark**
+### ** Comparação com o Benchmark**
 | Modelo                | Acurácia | Precisão | Recall | F1-Score | AUC  |
 |---------------------|---------|----------|--------|----------|------|
 | **CNN-LSTM (meu modelo)** | 61%     | 63%      | 59%    | 57%      | 73%  |
@@ -79,7 +79,7 @@ Apesar das dificuldades enfrentadas, conseguimos **otimizar recall**, priorizand
 
 ---
 
-## 📚 Referências
+##  Referências
 
 - Miltiadous, A. et al. (2023). *A dataset of EEG recordings from Alzheimer’s disease, Frontotemporal dementia and Healthy subjects*.
 - Hochreiter, S., & Schmidhuber, J. (1997). *Long short-term memory*. Neural Computation.
